@@ -14,9 +14,13 @@ DDoS Russian websites to help Ukraine to win this hybrid war
 <br />▪ Експерементуйте, обтирайте оптимальну кількість потоків, щоб проц в сотку довбився ))
 <br />▪ Приклад: python3 attack.py 500
 <br />
+<br />▪Запуск через CLI можно зробити через sh script:
+```
+./run.sh
+```
+
 #
 <br />▪ Все працює через проксі, не бійтесь!
-<br />▪ Якщо виникнуть проблеми, 24/7 відповідаю Telegram: https://t.me/esen1n25
 <br />▪ Вся координація через чат Telegram: https://t.me/incourse911
 <br />▪ Програма оновлюється автоматично, вона сама оновиться та знову запустить атаку, оновленния перевіряються кожну хвилину
 <br />▪ Якщо помітили в чаті оновлення яке я не виклав, повідомте в тг
@@ -26,9 +30,6 @@ DDoS Russian websites to help Ukraine to win this hybrid war
 <br />             pip install -r requirements.txt
 <br />    macOS/Linux: python3 -m pip install --upgrade pip
 <br />                 pip3 install -r requirements.txt
-<br />
-<br />    ~~macOS з ARM (M1) тимчасово не підтримується, очікуйте оновлення в найближчі години~~
-<br />    macOS ARM (M1) все працює!
 <br />
 <br />▪ Якщо щось зламалося вводимо наступну команду:
 <br />  Windows: python updater.py КІЛЬКІСТЬ_ПОТОКІВ
